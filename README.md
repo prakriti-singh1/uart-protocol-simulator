@@ -2,12 +2,12 @@
 
 This project implements a **Universal Asynchronous Receiver Transmitter (UART)** protocol in Verilog, simulating both the **transmitter (TX)** and **receiver (RX)** modules with loopback testing. It is designed as a **core ECE project**, demonstrating digital communication principles, finite state machines (FSM), and timing-based serial protocols.
 
-> ✅ Verified using Vivado 2025.1  
-> 💻 Suitable for FPGA implementation or behavioral simulation
+>  Verified using Vivado 2025.1  
+>  Suitable for FPGA implementation or behavioral simulation
 
 ---
 
-## 🔧 Features
+##  Features
 
 - ✔ FSM-based UART Transmitter
 - ✔ FSM-based UART Receiver with mid-bit sampling
@@ -17,7 +17,7 @@ This project implements a **Universal Asynchronous Receiver Transmitter (UART)**
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 | File              | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ This project implements a **Universal Asynchronous Receiver Transmitter (UART)**
 
 ---
 
-## 🧪 Simulation Details
+##  Simulation Details
 
 - **Clock Frequency:** 50 MHz  
 - **Baud Rate:** 9600  
